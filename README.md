@@ -1,2 +1,4 @@
-# chrome-dino
-Hack Dino game using Python bot and Javascript
+# Get Started
+## Go to chrome://dino
+## Click f12 to open Inspect Element
+## Click on console to type the codes
